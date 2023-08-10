@@ -1,10 +1,11 @@
 """
-Maya Migrate tools version 0.0
+MAYA MIGRATE TOOL VERSION 1.0
 by Aldo Aldrich 
 Autodesk Maya is a property of Autodesk, Inc.
 
-version 1.1 (postpone)
--user c migrate to multiple folder
+
+version 1.1 update (postpone)
+-user can migrate to multiple folder
 -filter by alphabet order
 -(Minor) use spacer to align content detail
 -(Minor) prevent user click refresh while function running
