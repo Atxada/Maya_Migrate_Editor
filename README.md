@@ -3,10 +3,10 @@
 ## Description
 
 Some maya nodes in the scene use external resources by directory name (String), if the file is
-not available in the reference directory, this can cause some error (unresolved connection). In a
+not available in the reference directory, this can cause some error (unresolved connection). **In a
 studio setup, for example, when each computer is connected to the main server, this problem
 frequently occurs when a local pc attempts to transfer a maya file with all associated paths to
-the main server.
+the main server.**
 
 ```
 Migrate editor allows the the user to send the maya file with all resource paths (texture) intact.
