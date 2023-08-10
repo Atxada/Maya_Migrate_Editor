@@ -23,7 +23,7 @@ The user has the option of choose where to save the resource and where to save t
 
 
 ## UI Details
-![migrate editor ui](https://github.com/Atxada/Maya_Migrate_Editor/assets/133334503/8c7b92fc-e016-491f-a64a-cea9027851c7)
+![migrate editor ui](https://github.com/Atxada/Maya_Migrate_Editor/assets/133334503/8ece4a77-0543-4034-a18c-1daf474cc07d)
 
 1. Target directory: All the resource path will be copied and repath to target directory
 2. Folder icon: Let the user select where to put the resource (required to perform migrate)
