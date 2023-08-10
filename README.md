@@ -57,6 +57,6 @@ Maya scene, save before migrating if necessary)
 
 ## Notes (current version):
 >Migrate Editor UI in 2019 might seems different compared to 2020 and above, due to different
-version of PySide2 framework
->Migrate Editor (1.0.0) only able to migrate file type resource
->There is still possible bug or error in beta version
+version of PySide2 framework  
+>Migrate Editor (1.0.0) only able to migrate file type resource  
+>There is still possible bug or error in beta version  
