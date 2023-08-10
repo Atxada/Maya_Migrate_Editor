@@ -22,16 +22,16 @@ The user has the option of choose where to save the resource and where to save t
 
 ## How To Use
 
-1. Click the folder icon in the upper right corner to open the file dialog
+1. Click the folder icon in the upper right corner to open the file dialog.  
 2. File dialog will appear. The user can specify which folder to export the texture or other
 file to (This step is required to migrate).By clicking right mouse button, The user can also
-add new folder.
+add new folder.  
 3. All linked connections will be listed in the resources detail (version 1.0 will only list file
 connections). By checking the checkbox to the right of the resolved list, the user can
-select which file to export.
+select which file to export.  
 4. If all set, the user can click “save scene as” button. File dialog will appear and ask for the
 save destination to begin the migrate operation. (Note: Migrating a file will create a new
-Maya scene, save before migrating if necessary)
+Maya scene, save before migrating if necessary)  
 
 ## Notes (current version):
 -Migrate Editor UI in 2019 might seems different compared to 2020 and above, due to different
