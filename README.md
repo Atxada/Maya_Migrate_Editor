@@ -14,7 +14,7 @@ The user has the option of choose where to save the resource and where to save t
 ```
 
 
-## **Install Instructions**
+## Install Instructions
 
 1. Extract Migrate_Tool_Editor.zip (file inside: migrate_editor.py and migrate_editor_installer.py)  
 2. Start Autodesk Maya  
