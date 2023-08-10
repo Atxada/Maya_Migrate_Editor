@@ -8,10 +8,10 @@ studio setup, for example, when each computer is connected to the main server, t
 frequently occurs when a local pc attempts to transfer a maya file with all associated paths to
 the main server.
 
-'''
+```
 Migrate editor allows the the user to send the maya file with all resource paths (texture) intact.
 The user has the option of choose where to save the resource and where to save the scene.
-'''
+```
 
 
 ## Install Instructions
