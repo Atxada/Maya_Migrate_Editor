@@ -23,6 +23,7 @@ The user has the option of choose where to save the resource and where to save t
 
 
 ## UI Details
+![Uploading migrate editor ui.png…]()
 
 1. Target directory: All the resource path will be copied and repath to target directory
 2. Folder icon: Let the user select where to put the resource (required to perform migrate)
