@@ -16,7 +16,7 @@ The user has the option of choose where to save the resource and where to save t
 
 ## Install Instructions
 
-1. Download source code in the code folder (file inside: migrate_editor.py and migrate_editor_installer.py)  
+1. Download source code from the folder (file inside: migrate_editor.py and migrate_editor_installer.py)  
 2. Start Autodesk Maya  
 3. Drag migrate_editor_installer.py to viewport  
 4. Tools have been added to the current active shelf  
