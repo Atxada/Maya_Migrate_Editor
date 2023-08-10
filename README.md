@@ -46,7 +46,7 @@ scene is the post migration file)
 
 1. Click the folder icon in the upper right corner to open the file dialog.  
 2. File dialog will appear. The user can specify which folder to export the texture or other
-file to (This step is required to migrate).By clicking right mouse button, The user can also
+file to (This step is required to migrate). By clicking right mouse button, The user can also
 add new folder.  
 3. All linked connections will be listed in the resources detail (version 1.0 will only list file
 connections). By checking the checkbox to the right of the resolved list, the user can
