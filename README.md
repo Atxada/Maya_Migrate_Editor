@@ -14,28 +14,28 @@ The user has the option of choose where to save the resource and where to save t
 
 ## Install Instructions
 
-1.Extract Migrate_Tool_Editor.zip (file inside: migrate_editor.py and migrate_editor_installer.py)  
-2.Start Autodesk Maya  
-3.Drag migrate_editor_installer.py to viewport  
-4.Tools have been added to the current active shelf  
+1. Extract Migrate_Tool_Editor.zip (file inside: migrate_editor.py and migrate_editor_installer.py)  
+2. Start Autodesk Maya  
+3. Drag migrate_editor_installer.py to viewport  
+4. Tools have been added to the current active shelf  
 
 
 ## UI Details
 
-1.Target directory: All the resource path will be copied and repath to target directory
-2.Folder icon: Let the user select where to put the resource (required to perform migrate)
-3.Resolved Path Node: List all node in the scene that rely on external resources
-4.Resolved File name: List the resolved linked resources
-5.Migrate Checkbox: If checked, it will perform migrate to the corresponding node. Vice
+1. Target directory: All the resource path will be copied and repath to target directory
+2. Folder icon: Let the user select where to put the resource (required to perform migrate)
+3. Resolved Path Node: List all node in the scene that rely on external resources
+4. Resolved File name: List the resolved linked resources
+5. Migrate Checkbox: If checked, it will perform migrate to the corresponding node. Vice
 versa
-6.Unresolved Path Node: List all unresolved node in the scene (important note: all the
+6. Unresolved Path Node: List all unresolved node in the scene (important note: all the
 unresolved node will not migrated)
-7.Unresolved File Name: List all unresolved resources directory
-8.Input Button: Click to explore the file attribute
-9.File Path Editor: open maya file path editor
-10.Refresh List: Refresh all content (if the the user changes a resource connection, this
+7. Unresolved File Name: List all unresolved resources directory
+8. Input Button: Click to explore the file attribute
+9. File Path Editor: open maya file path editor
+10. Refresh List: Refresh all content (if the the user changes a resource connection, this
 button will reload the resolved and unresolved lists. Just like maya native file path editor)
-11.Save Scene As: Perform resource migration as well save the current scene as a new
+11. Save Scene As: Perform resource migration as well save the current scene as a new
 one with all of the modified attributes. (Note: Please keep in mind that the present Maya
 scene is the post migration file)
 
